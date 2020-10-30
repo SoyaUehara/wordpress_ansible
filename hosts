@@ -1,0 +1,9 @@
+[all]
+localhost
+
+[all:vars]
+user_name="root"
+ansible_port=4022
+ansible_python_interpreter=/usr/bin/python3
+wordpress_host="localhost"
+wordpress_password="hZzTwWuTeN"
